@@ -1,0 +1,14 @@
+<html>
+    <head>
+            <title>dropdown</title>
+      
+           </head>
+<body>
+          <Select type="dropdown">
+          <option value="java">JAVA</option>
+          <option valu="manual">MANUAL</option> 
+           <option value="selenium">SELENIUM</option>
+           <option value="sql">SQL</option>
+        </Select>
+     </body>
+    </html>    
