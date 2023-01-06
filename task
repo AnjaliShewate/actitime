@@ -1,0 +1,7 @@
+  @Test
+   public void actitime() {
+	   WebDriver driver=new ChromeDriver();
+	   driver.manage().window().maximize();
+	   driver.get("http://irctc.com/contact.html");
+	   
+   }
